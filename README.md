@@ -3,7 +3,7 @@ ChatSocket is an example that shows how programs can talk to each other over the
 # To run the Socket  Program
 Open a terminal or command line and navigate to the directory where the socket program is located.
 
-#Run the Script
+# Run the Script
 Execute the Python script by running the following command in your terminal or command prompt:
                   python3 or python tserver.py
                   python3 or python tclient.py
